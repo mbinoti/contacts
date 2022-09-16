@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314486986818",
+    "project_id": "contacts-ebdfe",
+    "storage_bucket": "contacts-ebdfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314486986818:android:3bf33a9dbedbed4d1475db",
+        "android_client_info": {
+          "package_name": "br.com.mbi.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314486986818-4s1vhmq9he0clia02lerkss9eav3isv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAPaVpckQc4g_graYaNmb6S07PHqLrxe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314486986818-4s1vhmq9he0clia02lerkss9eav3isv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
